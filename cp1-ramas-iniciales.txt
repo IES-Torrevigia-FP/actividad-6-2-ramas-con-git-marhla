@@ -1,0 +1,5 @@
+git branch:
+* main
+
+git log --oneline:
+abc1234 Versión inicial de la aplicación

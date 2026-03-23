@@ -1,0 +1,13 @@
+Ramas:
+* feature-licencia
+  feature-mensaje-bienvenida
+  main
+
+Log:
+ghi9999 Añade archivo de licencia en rama feature-licencia
+abc1234 Versión inicial de la aplicación
+
+Tengo 3 ramas:
+- main: versión principal
+- feature-mensaje-bienvenida: añade mensaje
+- feature-licencia: añade licencia

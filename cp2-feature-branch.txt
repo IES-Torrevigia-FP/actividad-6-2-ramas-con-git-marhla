@@ -1,0 +1,10 @@
+git branch:
+* feature-mensaje-bienvenida
+  main
+
+git log --oneline:
+def5678 Añade mensaje de bienvenida en rama feature
+abc1234 Versión inicial de la aplicación
+
+Explicación:
+He creado una nueva rama para añadir un mensaje sin modificar la rama principal.
